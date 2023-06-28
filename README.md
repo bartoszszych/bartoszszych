@@ -1,16 +1,15 @@
-### Hi there 👋
+## Bartosz Szych 👨‍💻
 
-<!--
-**bartoszszych/bartoszszych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation Engineer 🤖 |  Hobbyist iOS App Developer 📱 | Python Enthusiast 🐍
 
-Here are some ideas to get you started:
+I'm an Automation Engineer with experience in Industrial Automation and Automotive. I enjoy creating iOS mobile applications and utilizing Python for Data Science and Image Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education: Master's in Industrial Automation and Robotics from AGH University
+
+💻 Skills: PLC Programming, Python, Swift, iOS Development, Data Science with Python, Image Analysis
+
+🔧 Experience: Automation Engineering, Automotive Projects
+
+📧 Contact: bartosz.szych@outlook.com | LinkedIn: [linkedin.com/in/bartoszszych](https://www.linkedin.com/in/bartosz-szych-5358b822a/)
+
+Let's connect and discuss how we can work together. 
