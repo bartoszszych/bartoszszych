@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Bartosz Szych 👨‍💻<br><br>Control and Robotics Engineer 🤖 |  Hobbyist iOS App Developer 📱 | Python Enthusiast 🐍
+## Bartosz Szych 👨‍💻<br><br>Control Engineer 🤖 |  Hobbyist iOS App Developer 📱 | Python Enthusiast 🐍
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-szych-5358b822a) 
