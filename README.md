@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Bartosz Szych 👨‍💻<br><br>Automation Engineer 🤖 |  Hobbyist iOS App Developer 📱 | Python Enthusiast 🐍
+About Me:
+## Bartosz Szych <br><br>Software Engineer |  Automotive Embedded Systems | AUTOSAR |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-szych-5358b822a) 
